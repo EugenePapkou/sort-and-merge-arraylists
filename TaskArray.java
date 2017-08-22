@@ -4,16 +4,14 @@
     which contains sorted elements both of the "ArrayList a" and "ArrayList b".
 */
 
-package com.expertsoft.task;
+package com.task;
 
 import java.util.ArrayList;
 
 public class TaskArray 
 {          
     public static void main(String[] args) 
-    {
-        //Merge obj = new Merge();
-        //System.out.println(obj.merge(obj.a, obj.b));        
+    {                
         ArrayList a = new ArrayList();
         ArrayList b = new ArrayList();
         a.add(1);
